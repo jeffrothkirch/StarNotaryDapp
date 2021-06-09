@@ -1,3 +1,20 @@
+## Rinkeyby Contract Address
+0x399553c4493FC350277AcC87A41a7137534A030d
+
+## Transaction Hash
+0x0363a92b1b4a6599df6e2319e44bc3699a15574d81cd3565b96b310f66f0e3b7
+
+## Token Name
+JeffStar
+
+## Token Symbol
+JSTR
+
+## OpenZepplin Version
+2.3
+
+
+
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
